@@ -25,10 +25,22 @@ values.
 functions and variables. Include user instructions on how to use the calculator
 application.
 
-![image](https://github.com/user-attachments/assets/5b0a4de3-1d6d-4191-987a-17c7057217ec)
+After Running the Code:-
+![image](https://github.com/user-attachments/assets/e285ae3e-021c-479e-933a-771abfff1fb5)
 
-after Clicking onto the Calculate Button We get the Result Grade like-
-![image](https://github.com/user-attachments/assets/d64ee84f-49e7-445d-880b-4aeef0637842)
+we can See History on click onto the Clock Icon and there is history avilabel then it  will show 
+![image](https://github.com/user-attachments/assets/c27ee6e6-011c-43ea-a1cf-b62e2e76a5a8)
+
+otherwise not..
+
+![image](https://github.com/user-attachments/assets/fc003dec-f22b-473b-a697-043090a14d45)
+
+
+
+
+
+
+
 
 
 
